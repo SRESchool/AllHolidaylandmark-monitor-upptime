@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 607,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "time": 609,
+    "timeDay": 609,
+    "timeWeek": 609,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 692,
-    "timeWeek": 692,
-    "timeMonth": 692,
-    "timeYear": 692,
+    "time": 687,
+    "timeDay": 687,
+    "timeWeek": 687,
+    "timeMonth": 687,
+    "timeYear": 687,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 293,
-    "timeWeek": 293,
-    "timeMonth": 293,
-    "timeYear": 293,
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holidaylandmark.com.ico",
     "slug": "holiday-landmark",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 425
+      "2025-05-01": 440
     }
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 509,
-    "timeWeek": 509,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "time": 512,
+    "timeDay": 512,
+    "timeWeek": 512,
+    "timeMonth": 512,
+    "timeYear": 512,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3616,
-    "timeDay": 3616,
-    "timeWeek": 3616,
-    "timeMonth": 3616,
-    "timeYear": 3616,
+    "time": 3584,
+    "timeDay": 3584,
+    "timeWeek": 3584,
+    "timeMonth": 3584,
+    "timeYear": 3584,
     "dailyMinutesDown": {}
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 425
+      "2025-05-01": 440
     }
   }
 ]
