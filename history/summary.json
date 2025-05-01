@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 611,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "time": 612,
+    "timeDay": 612,
+    "timeWeek": 612,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 653,
-    "timeDay": 653,
-    "timeWeek": 653,
-    "timeMonth": 653,
-    "timeYear": 653,
+    "time": 652,
+    "timeDay": 652,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 307,
-    "timeWeek": 307,
-    "timeMonth": 307,
-    "timeYear": 307,
+    "time": 309,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 744
+      "2025-05-01": 754
     }
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 511,
-    "timeWeek": 511,
-    "timeMonth": 511,
-    "timeYear": 511,
+    "time": 588,
+    "timeDay": 588,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3638,
-    "timeDay": 3638,
-    "timeWeek": 3638,
-    "timeMonth": 3638,
-    "timeYear": 3638,
+    "time": 3621,
+    "timeDay": 3621,
+    "timeWeek": 3621,
+    "timeMonth": 3621,
+    "timeYear": 3621,
     "dailyMinutesDown": {}
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 744
+      "2025-05-01": 754
     }
   }
 ]
