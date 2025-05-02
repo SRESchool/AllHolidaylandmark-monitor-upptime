@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 585,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 574,
+    "timeDay": 579,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 607,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "time": 594,
+    "timeDay": 596,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 624,
-    "timeWeek": 628,
-    "timeMonth": 628,
-    "timeYear": 628,
+    "time": 623,
+    "timeDay": 611,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 295,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 291,
+    "time": 290,
+    "timeDay": 292,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 900,
+      "2025-05-02": 927,
       "2025-05-01": 822
     }
   },
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 566,
-    "timeWeek": 551,
-    "timeMonth": 551,
-    "timeYear": 551,
+    "time": 547,
+    "timeDay": 561,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   },
   {
@@ -116,16 +116,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/meraapnabihar.com.ico",
     "slug": "mera-apna-bihar",
     "status": "up",
-    "uptime": "96.41%",
+    "uptime": "96.46%",
     "uptimeDay": "95.71%",
-    "uptimeWeek": "96.41%",
-    "uptimeMonth": "96.41%",
-    "uptimeYear": "96.41%",
-    "time": 4046,
-    "timeDay": 4161,
-    "timeWeek": 4046,
-    "timeMonth": 4046,
-    "timeYear": 4046,
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "96.46%",
+    "time": 4050,
+    "timeDay": 4182,
+    "timeWeek": 4050,
+    "timeMonth": 4050,
+    "timeYear": 4050,
     "dailyMinutesDown": {
       "2025-05-02": 62
     }
@@ -147,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 900,
+      "2025-05-02": 927,
       "2025-05-01": 822
     }
   }
