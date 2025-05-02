@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
+    "time": 568,
     "timeDay": 555,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 571,
-    "timeWeek": 589,
-    "timeMonth": 589,
-    "timeYear": 589,
+    "time": 588,
+    "timeDay": 573,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 590,
-    "timeWeek": 619,
-    "timeMonth": 619,
-    "timeYear": 619,
+    "time": 618,
+    "timeDay": 592,
+    "timeWeek": 618,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {}
   },
   {
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 272,
+    "timeDay": 273,
     "timeWeek": 287,
     "timeMonth": 287,
     "timeYear": 287,
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 1288,
+      "2025-05-02": 1301,
       "2025-05-01": 822
     }
   },
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 539,
-    "timeWeek": 534,
-    "timeMonth": 534,
-    "timeYear": 534,
+    "time": 533,
+    "timeDay": 543,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
@@ -116,16 +116,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/meraapnabihar.com.ico",
     "slug": "mera-apna-bihar",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.09%",
     "uptimeDay": "95.71%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "97.07%",
-    "time": 3819,
-    "timeDay": 3877,
-    "timeWeek": 3819,
-    "timeMonth": 3819,
-    "timeYear": 3819,
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "97.09%",
+    "time": 3809,
+    "timeDay": 3862,
+    "timeWeek": 3809,
+    "timeMonth": 3809,
+    "timeYear": 3809,
     "dailyMinutesDown": {
       "2025-05-02": 62
     }
@@ -147,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 1288,
+      "2025-05-02": 1301,
       "2025-05-01": 822
     }
   }
