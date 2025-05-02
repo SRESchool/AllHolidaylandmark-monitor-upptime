@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 604,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "time": 611,
+    "timeDay": 606,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 644,
-    "timeDay": 644,
+    "timeDay": 645,
     "timeWeek": 644,
     "timeMonth": 644,
     "timeYear": 644,
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 292,
-    "timeWeek": 293,
-    "timeMonth": 293,
-    "timeYear": 293,
+    "time": 294,
+    "timeDay": 293,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 770,
+      "2025-05-02": 779,
       "2025-05-01": 822
     }
   },
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 539,
-    "timeWeek": 543,
-    "timeMonth": 543,
-    "timeYear": 543,
+    "time": 568,
+    "timeDay": 568,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   },
   {
@@ -116,16 +116,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/meraapnabihar.com.ico",
     "slug": "mera-apna-bihar",
     "status": "up",
-    "uptime": "96.12%",
+    "uptime": "96.14%",
     "uptimeDay": "95.71%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "96.12%",
-    "uptimeYear": "96.12%",
-    "time": 4057,
-    "timeDay": 4049,
-    "timeWeek": 4057,
-    "timeMonth": 4057,
-    "timeYear": 4057,
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.14%",
+    "time": 4049,
+    "timeDay": 4040,
+    "timeWeek": 4049,
+    "timeMonth": 4049,
+    "timeYear": 4049,
     "dailyMinutesDown": {
       "2025-05-02": 62
     }
@@ -147,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 770,
+      "2025-05-02": 779,
       "2025-05-01": 822
     }
   }
