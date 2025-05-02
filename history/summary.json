@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
+    "time": 593,
     "timeDay": 598,
-    "timeWeek": 592,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "timeWeek": 593,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   },
   {
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 292,
+    "timeDay": 289,
     "timeWeek": 289,
     "timeMonth": 289,
     "timeYear": 289,
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 971,
+      "2025-05-02": 999,
       "2025-05-01": 822
     }
   },
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 561,
-    "timeWeek": 544,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "time": 545,
+    "timeDay": 557,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {}
   },
   {
@@ -116,16 +116,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/meraapnabihar.com.ico",
     "slug": "mera-apna-bihar",
     "status": "up",
-    "uptime": "96.55%",
+    "uptime": "96.61%",
     "uptimeDay": "95.71%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "96.55%",
-    "time": 4034,
-    "timeDay": 4146,
-    "timeWeek": 4034,
-    "timeMonth": 4034,
-    "timeYear": 4034,
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "96.61%",
+    "uptimeYear": "96.61%",
+    "time": 4023,
+    "timeDay": 4136,
+    "timeWeek": 4023,
+    "timeMonth": 4023,
+    "timeYear": 4023,
     "dailyMinutesDown": {
       "2025-05-02": 62
     }
@@ -147,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 971,
+      "2025-05-02": 999,
       "2025-05-01": 822
     }
   }
