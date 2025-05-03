@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bangaloreorbit.com.ico",
     "slug": "bangalore-orbit",
     "status": "up",
-    "uptime": "89.49%",
-    "uptimeDay": "75.24%",
-    "uptimeWeek": "89.49%",
-    "uptimeMonth": "89.49%",
-    "uptimeYear": "89.49%",
-    "time": 547,
+    "uptime": "89.12%",
+    "uptimeDay": "74.26%",
+    "uptimeWeek": "89.12%",
+    "uptimeMonth": "89.12%",
+    "uptimeYear": "89.12%",
+    "time": 548,
     "timeDay": 520,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "timeWeek": 548,
+    "timeMonth": 548,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2025-05-03": 356
+      "2025-05-03": 371
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bhopalorbit.com.ico",
     "slug": "bhopal-orbit",
     "status": "up",
-    "uptime": "89.51%",
-    "uptimeDay": "75.28%",
-    "uptimeWeek": "89.51%",
-    "uptimeMonth": "89.51%",
-    "uptimeYear": "89.51%",
+    "uptime": "89.14%",
+    "uptimeDay": "74.29%",
+    "uptimeWeek": "89.14%",
+    "uptimeMonth": "89.14%",
+    "uptimeYear": "89.14%",
     "time": 575,
     "timeDay": 560,
     "timeWeek": 575,
     "timeMonth": 575,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-05-03": 356
+      "2025-05-03": 370
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gujaratorbit.com.ico",
     "slug": "gujarat-gujarat-orbit",
     "status": "up",
-    "uptime": "89.52%",
-    "uptimeDay": "75.32%",
-    "uptimeWeek": "89.52%",
-    "uptimeMonth": "89.52%",
-    "uptimeYear": "89.52%",
+    "uptime": "89.15%",
+    "uptimeDay": "74.33%",
+    "uptimeWeek": "89.15%",
+    "uptimeMonth": "89.15%",
+    "uptimeYear": "89.15%",
     "time": 603,
     "timeDay": 590,
     "timeWeek": 603,
     "timeMonth": 603,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-05-03": 355
+      "2025-05-03": 370
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chennaiorbit.com.ico",
     "slug": "chennai-orbit",
     "status": "up",
-    "uptime": "89.54%",
-    "uptimeDay": "75.35%",
-    "uptimeWeek": "89.54%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "89.54%",
+    "uptime": "89.17%",
+    "uptimeDay": "74.37%",
+    "uptimeWeek": "89.17%",
+    "uptimeMonth": "89.17%",
+    "uptimeYear": "89.17%",
     "time": 288,
     "timeDay": 289,
     "timeWeek": 288,
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-05-03": 355
+      "2025-05-03": 369
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 1131,
+      "2025-05-03": 1145,
       "2025-05-02": 1440,
       "2025-05-01": 822
     }
@@ -107,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/keralaorbit.in.ico",
     "slug": "kerala-orbit",
     "status": "up",
-    "uptime": "89.55%",
-    "uptimeDay": "75.39%",
-    "uptimeWeek": "89.55%",
-    "uptimeMonth": "89.55%",
-    "uptimeYear": "89.55%",
+    "uptime": "89.18%",
+    "uptimeDay": "74.40%",
+    "uptimeWeek": "89.18%",
+    "uptimeMonth": "89.18%",
+    "uptimeYear": "89.18%",
     "time": 505,
     "timeDay": 459,
     "timeWeek": 505,
     "timeMonth": 505,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-05-03": 354
+      "2025-05-03": 369
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meraapnabihar.com.ico",
     "slug": "mera-apna-bihar",
     "status": "up",
-    "uptime": "87.75%",
-    "uptimeDay": "75.43%",
-    "uptimeWeek": "87.75%",
-    "uptimeMonth": "87.75%",
-    "uptimeYear": "87.75%",
-    "time": 3445,
+    "uptime": "87.38%",
+    "uptimeDay": "74.44%",
+    "uptimeWeek": "87.38%",
+    "uptimeMonth": "87.38%",
+    "uptimeYear": "87.38%",
+    "time": 3441,
     "timeDay": 2793,
-    "timeWeek": 3445,
-    "timeMonth": 3445,
-    "timeYear": 3445,
+    "timeWeek": 3441,
+    "timeMonth": 3441,
+    "timeYear": 3441,
     "dailyMinutesDown": {
-      "2025-05-03": 354,
+      "2025-05-03": 368,
       "2025-05-02": 62
     }
   },
@@ -159,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 1131,
+      "2025-05-03": 1145,
       "2025-05-02": 1440,
       "2025-05-01": 822
     }
