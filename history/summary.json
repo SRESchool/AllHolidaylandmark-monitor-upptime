@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bangaloreorbit.com.ico",
     "slug": "bangalore-orbit",
     "status": "up",
-    "uptime": "89.78%",
-    "uptimeDay": "76.00%",
-    "uptimeWeek": "89.78%",
-    "uptimeMonth": "89.78%",
-    "uptimeYear": "89.78%",
-    "time": 549,
-    "timeDay": 522,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "uptime": "89.49%",
+    "uptimeDay": "75.24%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "89.49%",
+    "uptimeYear": "89.49%",
+    "time": 547,
+    "timeDay": 520,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2025-05-03": 346
+      "2025-05-03": 356
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bhopalorbit.com.ico",
     "slug": "bhopal-orbit",
     "status": "up",
-    "uptime": "89.80%",
-    "uptimeDay": "76.03%",
-    "uptimeWeek": "89.80%",
-    "uptimeMonth": "89.80%",
-    "uptimeYear": "89.80%",
-    "time": 577,
-    "timeDay": 563,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "uptime": "89.51%",
+    "uptimeDay": "75.28%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "89.51%",
+    "uptimeYear": "89.51%",
+    "time": 575,
+    "timeDay": 560,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-05-03": 345
+      "2025-05-03": 356
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gujaratorbit.com.ico",
     "slug": "gujarat-gujarat-orbit",
     "status": "up",
-    "uptime": "89.81%",
-    "uptimeDay": "76.07%",
-    "uptimeWeek": "89.81%",
-    "uptimeMonth": "89.81%",
-    "uptimeYear": "89.81%",
-    "time": 605,
-    "timeDay": 593,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "uptime": "89.52%",
+    "uptimeDay": "75.32%",
+    "uptimeWeek": "89.52%",
+    "uptimeMonth": "89.52%",
+    "uptimeYear": "89.52%",
+    "time": 603,
+    "timeDay": 590,
+    "timeWeek": 603,
+    "timeMonth": 603,
+    "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-05-03": 345
+      "2025-05-03": 355
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chennaiorbit.com.ico",
     "slug": "chennai-orbit",
     "status": "up",
-    "uptime": "89.83%",
-    "uptimeDay": "76.11%",
-    "uptimeWeek": "89.83%",
-    "uptimeMonth": "89.83%",
-    "uptimeYear": "89.83%",
+    "uptime": "89.54%",
+    "uptimeDay": "75.35%",
+    "uptimeWeek": "89.54%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "89.54%",
     "time": 288,
-    "timeDay": 290,
+    "timeDay": 289,
     "timeWeek": 288,
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-05-03": 344
+      "2025-05-03": 355
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 1120,
+      "2025-05-03": 1131,
       "2025-05-02": 1440,
       "2025-05-01": 822
     }
@@ -107,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/keralaorbit.in.ico",
     "slug": "kerala-orbit",
     "status": "up",
-    "uptime": "89.84%",
-    "uptimeDay": "76.14%",
-    "uptimeWeek": "89.84%",
-    "uptimeMonth": "89.84%",
-    "uptimeYear": "89.84%",
-    "time": 507,
-    "timeDay": 462,
-    "timeWeek": 507,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "uptime": "89.55%",
+    "uptimeDay": "75.39%",
+    "uptimeWeek": "89.55%",
+    "uptimeMonth": "89.55%",
+    "uptimeYear": "89.55%",
+    "time": 505,
+    "timeDay": 459,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-05-03": 344
+      "2025-05-03": 354
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meraapnabihar.com.ico",
     "slug": "mera-apna-bihar",
     "status": "up",
-    "uptime": "88.03%",
-    "uptimeDay": "76.18%",
-    "uptimeWeek": "88.03%",
-    "uptimeMonth": "88.03%",
-    "uptimeYear": "88.03%",
-    "time": 3448,
-    "timeDay": 2792,
-    "timeWeek": 3448,
-    "timeMonth": 3448,
-    "timeYear": 3448,
+    "uptime": "87.75%",
+    "uptimeDay": "75.43%",
+    "uptimeWeek": "87.75%",
+    "uptimeMonth": "87.75%",
+    "uptimeYear": "87.75%",
+    "time": 3445,
+    "timeDay": 2793,
+    "timeWeek": 3445,
+    "timeMonth": 3445,
+    "timeYear": 3445,
     "dailyMinutesDown": {
-      "2025-05-03": 343,
+      "2025-05-03": 354,
       "2025-05-02": 62
     }
   },
@@ -159,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 1120,
+      "2025-05-03": 1131,
       "2025-05-02": 1440,
       "2025-05-01": 822
     }
